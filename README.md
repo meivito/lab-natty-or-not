@@ -39,7 +39,32 @@ A wide-angle landscape photograph captured during blue hour twilight, transition
 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+### Apresentação das Imagens 1.
+
+![Craiyon 1](https://github.com/meivito/lab-natty-or-not/blob/main/Pictures/Craiyon%201.webp)
+![GPT 1](https://github.com/meivito/lab-natty-or-not/blob/main/Pictures/GPT%201.png)
+![Gemini 1](https://github.com/meivito/lab-natty-or-not/blob/main/Pictures/Gemini%201.jpg)
+![Real](https://github.com/meivito/lab-natty-or-not/blob/main/Pictures/Lake%20Josephine-%20Glacier%20National%20Park.webp)
+
+### Apresentação das Imagens 2.
+![Craiyon 2](https://github.com/meivito/lab-natty-or-not/blob/main/Pictures/Craiyon%202.webp)
+![GPT 2](https://github.com/meivito/lab-natty-or-not/blob/main/Pictures/GPT%202.png)
+![Gemini 2](https://github.com/meivito/lab-natty-or-not/blob/main/Pictures/Gemini%202.jpg)
+![Real](https://github.com/meivito/lab-natty-or-not/blob/main/Pictures/10wallpapers.jpg)
+
+
+### Apresentação das Imagens 3.
+![Craiyon 3](https://github.com/meivito/lab-natty-or-not/blob/main/Pictures/Craiyon%203.webp)
+![GPT 3](https://github.com/meivito/lab-natty-or-not/blob/main/Pictures/GPT%203.png)
+![Gemini 3](https://github.com/meivito/lab-natty-or-not/blob/main/Pictures/Gemini%203.jpg)
+![Real](https://github.com/meivito/lab-natty-or-not/blob/main/Pictures/Loop%20Barbados.jpg)
+
+### Apresentação das Imagens 4.
+![Craiyon 4](https://github.com/meivito/lab-natty-or-not/blob/main/Pictures/Craiyon%204.webp)
+![GPT 4](https://github.com/meivito/lab-natty-or-not/blob/main/Pictures/GPT%204.png)
+![Gemini 4](https://github.com/meivito/lab-natty-or-not/blob/main/Pictures/Gemini%204.jpg)
+![Real](https://github.com/meivito/lab-natty-or-not/blob/main/Pictures/Orignal%204.jpg)
+
 
 
 ## 💭 Reflexão
