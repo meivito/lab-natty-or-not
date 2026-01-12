@@ -8,17 +8,20 @@
 
 # Fotografei ou a IA fez?
 
-📒 Descrição
+## 📒 Descrição
+
 O projeto tem como finalidade apresentar diversas imagens que podem, ou não, terem sido criadas por IA. 
 
-🤖 Tecnologias Utilizadas
+## 🤖 Tecnologias Utilizadas
+
 Liste as IAs Generativas e outras ferramentas usadas
 Gemini  (https://gemini.google.com/app?hl=pt-BR)
 ChatGPT (https://chatgpt.com/)
 Craiyon (https://www.craiyon.com/en)
 
 
-🧐 Processo de Criação
+## 🧐 Processo de Criação
+
 A primeira imagem de cada tema for gerada no Gemini a partir de uma descrção breve. A partir da geração da imagem solicitei que fosse gerado o prompt da imagem. Logo, apliquei o prompt no ChatGPT e no Craiyon.
 
 Os prompts usados foram:
@@ -36,7 +39,7 @@ Imagem 4
 A wide-angle landscape photograph captured during blue hour twilight, transitioning into night. The sky is incredibly dramatic, dominated by massive, heavy, turbulent dark blue and charcoal storm clouds that fill 80% of the frame, overhanging the landscape. A very faint remnant of sunset glow is visible on the far left horizon under the clouds. Below, a curving highway features long exposure light trails (red taillights and white headlights) from traffic leading towards a distant city skyline with a few illuminated white high-rise buildings. Silhouetted mountain ranges sit behind the city. The foreground is a dark, textured area of gravel and rough grass field. The atmosphere is ominous, moody, and cinematic.
 
 
-🚀 Resultados
+## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 
