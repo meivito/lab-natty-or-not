@@ -1,11 +1,3 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-
-
-
 # Fotografei ou a IA fez?
 
 ## 📒 Descrição
