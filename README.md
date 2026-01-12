@@ -4,6 +4,7 @@
 
 1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
 
+##Template
 
 ### Fotografei ou a IA fez?
 
@@ -21,6 +22,7 @@ Craiyon (https://www.craiyon.com/en)
 A primeira imagem de cada tema for gerada no Gemini a partir de uma descrção breve. A partir da geração da imagem solicitei que fosse gerado o prompt da imagem. Logo, apliquei o prompt no ChatGPT e no Craiyon.
 
 Os prompts usados foram:
+
 Imagem 1
 A breathtaking landscape of a crystal-clear alpine lake reflecting towering, snow-capped mountain peaks at sunset. The sky is filled with vibrant hues of purple, orange, and soft pink. In the foreground, smooth rocks and small purple wildflowers line the shore. A dense pine forest surrounds the lake, and the water is so calm that it creates a perfect mirror reflection of the scenery. High resolution, photorealistic, cinematic lighting, 8k.
 
