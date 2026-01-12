@@ -68,4 +68,4 @@ A wide-angle landscape photograph captured during blue hour twilight, transition
 
 
 ## 💭 Reflexão
-Criar este projeto foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+Criar este projeto foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos. Principalmente, na edição de imagem. 
