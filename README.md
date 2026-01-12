@@ -41,3 +41,6 @@ A wide-angle landscape photograph captured during blue hour twilight, transition
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
+
+## 💭 Reflexão
+Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
